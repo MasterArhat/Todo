@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(62, 148, 219);
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.wrapper {
+    width: 600px;
+    margin: auto;
+}
+
+#input {
+    width: 400px;
+}
